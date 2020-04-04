@@ -5,6 +5,9 @@
 This plugin allows you to quickly swap between windows and panes in your session
 by fuzzy searching on the current directory as well as current running command.
 
+## Demo
+[![asciicast](https://asciinema.org/a/sKFpzZe28WXcDAqC538yw5heL.svg)](https://asciinema.org/a/sKFpzZe28WXcDAqC538yw5heL)
+
 ## Requirements
 [fzf](https://github.com/junegunn/fzf)
 
