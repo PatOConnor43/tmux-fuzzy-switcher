@@ -1,5 +1,7 @@
 # tmux-fuzzy-switcher
 
+![MIT](https://img.shields.io/github/license/PatOConnor43/tmux-fuzzy-switcher)
+
 This plugin allows you to quickly swap between windows and panes in your session
 by fuzzy searching on the current directory as well as current running command.
 
