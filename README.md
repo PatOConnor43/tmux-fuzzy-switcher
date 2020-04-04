@@ -23,7 +23,7 @@ The default key binding is `O`, it can be modified by setting
 @tmux-fuzzy-switcher-key.
 
 ## Options
-| Option | Description | Default | Example |
-|------|-----------|--------|--------|
-| @tmux-fuzzy-switcher-key | Controls the key used to open the switcher | `O` | set -g @tmux-fuzzy-switcher 'x' |
+| Option                   | Description                                | Default  | Example                         |
+| ------                   | -----------                                | -------- | --------                        |
+| @tmux-fuzzy-switcher-key | Controls the key used to open the switcher | `O`      | set -g @tmux-fuzzy-switcher 'x' |
 
